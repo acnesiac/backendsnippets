@@ -1,35 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="8bd511a4-dfc3-4d9f-8776-29ddbccf6c9b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo2/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo2/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo2/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo3/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo3/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo3/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo3/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo3/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo3/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo3/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo3/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo3/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo3/src/main/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo3/src/main/resources/schema.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javacognizanttest/demo3/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javastructurespatternsstreams/.idea/javastructurespatternsstreams.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javastructurespatternsstreams/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javastructurespatternsstreams/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javastructurespatternsstreams/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javastructurespatternsstreams/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../frontendpatterns/app/patterns/closure/herbalifesucessgetfunc.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontendpatterns/app/patterns/closure/herbalifesucessgetfunc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javacognizanttest/Movies-Manager-Services-Java/movies-manager.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nodealgocastjs/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nodealgocastjs/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nodesnippets/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesnippets/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nodesnippets/reduceforeach/mapfilterjson.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesnippets/reduceforeach/mapfilterjson.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nodesnippets/sum/sum.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesnippets/sum/sum.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nodesnippets/wordscount/wordscount.js" beforeDir="false" afterPath="$PROJECT_DIR$/../nodesnippets/wordscount/wordscount.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datastructure/datastructure.iml" beforeDir="false" afterPath="$PROJECT_DIR$/datastructure/datastructure.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +21,14 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
@@ -57,12 +42,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="Git.Branch.Popup.ShowAllRemotes" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543766556197" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -165,6 +157,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -185,6 +178,9 @@
       <workItem from="1584496832432" duration="326000" />
       <workItem from="1585675820835" duration="645000" />
       <workItem from="1593583299557" duration="238000" />
+      <workItem from="1612321530744" duration="2535000" />
+      <workItem from="1613870068672" duration="2594000" />
+      <workItem from="1613873051760" duration="1222000" />
     </task>
     <task id="LOCAL-00001" summary="workspace">
       <created>1584410435441</created>
@@ -206,20 +202,10 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="workspace" />
     <option name="LAST_COMMIT_MESSAGE" value="workspace" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="463" y="57" key="FileChooserDialogImpl" timestamp="1585676457327">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="463" y="57" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585676457327" />
-    <state x="65" y="25" key="new project wizard" timestamp="1593583537579">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="65" y="25" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1593583537579" />
   </component>
 </project>
