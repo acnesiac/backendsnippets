@@ -1,12 +1,11 @@
-var arr = [1,2,3,4,5];
-var arr2 = ['a','b','c','d','e'];
-var hash = {};
-for (let i = 0; i <arr2.length; i++) {
-    hash[arr2[i]] = arr[i];
+const slice = function (array, divide) {
+    let res = [];
+    while (array.length) {
+        res.push(array.splice(0,divide));
+    }
+    return res;
 }
-console.log(hash);
-var values = Object.values(hash);
-console.log(values);
 
 
+console.log(slice([1,2,3,4,5,5,8], 3));
 
