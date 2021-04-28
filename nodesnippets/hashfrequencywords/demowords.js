@@ -2,12 +2,12 @@ var demo = "hola 123 dormida haciendote la cama  para el cielo cielo ya es dific
 
 var arr= demo.split(' ');
 var hash = {};
-hash["c"] = 0;
-hash["a"] = 0;
 
 for (var i= 0 ; i < arr.length; i ++){ 
 		if (hash[arr[i]] != undefined){
 				hash[arr[i]] ++;
+		}else{
+			hash[arr[i]] = 1;
 		}
 }
 
@@ -18,6 +18,7 @@ var res = Object.values(hash)
 			console.log( key ) 
 		} ) ;
 
+		
 
 
 
