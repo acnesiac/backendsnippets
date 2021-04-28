@@ -3,7 +3,6 @@ const filter = function (params) {
     return arr.filter(function (value,index) {
         return value === 1;
     })
-
 }
 
 console.log(filter());
