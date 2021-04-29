@@ -7,5 +7,5 @@ const slice = function (array, divide) {
 }
 
 
-console.log(slice([1,2,3,4,5,5,8], 3));
+console.log(slice([1,2,3,4,5,5,8    ], 3));
 
